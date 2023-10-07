@@ -18,6 +18,55 @@
     </a>    
 </a>
 
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="#">
+        <img alt="C#"
+             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+    <a href="#">
+        <img alt="C"
+             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Python"
+             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#">
+        <img alt="SQL"
+             src="https://img.shields.io/badge/PostgreSQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#">
+        <img alt="ASP.NET"
+             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
+    <a href="#">
+        <img alt=".NET7"
+             src="https://img.shields.io/badge/.NET7-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a>
+    <a href="#">
+        <img alt="ASP.NET Core"
+             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Entity%20Fraemwork%20Core"
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
+    <a href="#">
+        <img alt="MVC"
+             src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+</p>
+
+### 🗄️ Databases
+
+<p>
+    <a href="#">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+</p>
+
+
 
 <div> 
  <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
@@ -27,6 +76,15 @@
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
+<p align="center">
+  <a href="#">
+    <img title="🔥 Streak stats" alt="Komroncube's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Komroncube&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
