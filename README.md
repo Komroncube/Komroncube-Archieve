@@ -35,6 +35,7 @@
     <a href="#">
         <img alt="C"
              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+   
 </p>
 
 
@@ -56,6 +57,9 @@
     <a href="#">
         <img alt="MVC"
              src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+     <a href="#">
+        <img alt="Angular"
+             src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
    </p>
 
 ### 🗄️ Databases
@@ -73,6 +77,9 @@
     <a>
         <img alt="MongoDB"
              src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    <a>
+        <img alt="MS SQLSERVER"
+             src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&logo=mysql&logoColor=white"/></a>
 </p>
 
 
