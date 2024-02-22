@@ -9,7 +9,6 @@
     <img alt="Komroncube's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Komroncube&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
-
 <a>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
